@@ -9,3 +9,5 @@
 
 /* Estilo Home */
 @import "./home/intro.css";
+@import "./home/apresentacao-mockup.css";
+@import "./home/porque-nos.css";

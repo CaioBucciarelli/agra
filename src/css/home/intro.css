@@ -60,14 +60,14 @@
   text-transform: uppercase;
 }
 
-.link {
+.link-sobre {
   display: inline-block;
   text-transform: uppercase;
   font-weight: 600;
   padding: 12px 0;
 }
 
-.link::after {
+.link-sobre::after {
   content: "";
   display: inline-block;
   width: 12px;
