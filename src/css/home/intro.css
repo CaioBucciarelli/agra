@@ -77,7 +77,7 @@
   transition: transform 0.3s;
 }
 
-.link:hover::after {
+.link-sobre:hover::after {
   transform: translateX(4px);
 }
 

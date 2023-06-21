@@ -1,0 +1,22 @@
+.noticias {
+  padding: 120px 0;
+}
+
+.noticias-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.noticias-item {
+  background: var(--cor-0);
+  border-radius: 8px 8px 8px 8px;
+}
+
+.noticias-item img {
+  border-radius: 8px 8px 0 0;
+}
+
+.noticias-item div {
+  padding: 40px 40px 60px;
+}
