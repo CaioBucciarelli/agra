@@ -13,7 +13,7 @@ function PorqueNos(){
             <p className="font-2-l cor-5">A ideia da nossa empresa surgiu após algumas pesquisas do nosso grupo sobre o futuro da comida, e assim vimos uma grande oportunidade de explorar o agronegócio, após diversas pesquisas, identificamos que é necessário uma maior aplicação da tecnologia no mercado agro, com o intuito de informar os agrônomos e maximizar esse setor essencial do nosso país.</p>
             <a href="/sobre" className="link-historia">nossa historia</a>
           </div>
-          <div class="porque-nos-imagem">
+          <div className="porque-nos-imagem">
             <img src={tratorHome} alt="Trator em uma plantação." />
           </div>
         </div>

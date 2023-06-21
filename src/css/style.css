@@ -11,3 +11,6 @@
 @import "./home/intro.css";
 @import "./home/apresentacao-mockup.css";
 @import "./home/porque-nos.css";
+
+/* Estilo Planos */
+@import "./planos/planos-opcao.css";
