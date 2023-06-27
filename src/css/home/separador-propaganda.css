@@ -19,3 +19,12 @@
   border-radius: 8px;
   text-transform: uppercase;
 }
+
+@media (max-width: 800px) {
+  .titulo-separador {
+    font-size: 1.25rem;
+  }
+  .btn-separador {
+    padding: 8px 16px;
+  }
+}

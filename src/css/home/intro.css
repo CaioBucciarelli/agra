@@ -60,6 +60,10 @@
   text-transform: uppercase;
 }
 
+.btn-branco:hover {
+  background: var(--cor-2);
+}
+
 .link-sobre {
   display: inline-block;
   text-transform: uppercase;

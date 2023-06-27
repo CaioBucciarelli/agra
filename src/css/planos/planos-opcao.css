@@ -3,10 +3,15 @@
   padding-bottom: 120px;
 }
 
+.planos-opcao-2 {
+  padding-top: 177px;
+  padding-bottom: 120px;
+}
+
 .planos-opcoes {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  padding-top: 40px;
+  margin-top: 40px;
   align-items: center;
 }
 
@@ -64,7 +69,7 @@
   background: var(--cor-11);
   border: none !important;
   border-radius: 8px !important;
-  box-shadow: -2px 2px 10px var(--cor-8);
+  box-shadow: -2px 2px 10px 0px var(--cor-8);
 }
 
 .botao-planos {
@@ -107,7 +112,7 @@
   .plano-opcao-todos {
     border: 1px solid var(--cor-4);
     border-radius: 8px;
-    box-shadow: -2px 2px 10px var(--cor-8);
+    box-shadow: 2px 2px 4px 0px var(--cor-8);
   }
   .plano-avancado {
     order: -1;

@@ -4,8 +4,7 @@ import "../../css/style.css"
 function PlanosOpcao(){
 
     return(
-      <article className="planos-opcao container">
-        <h2 className="font-1-xxl">nossos planos<span className="cor-p3">.</span></h2>
+      <article className="planos-opcao-2 container">
         <div className="planos-opcoes">
           <div className="plano-opcao-todos">
               <h3 className="font-1-xl cor-12">BÁSICO</h3>

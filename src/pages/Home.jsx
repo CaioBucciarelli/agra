@@ -7,6 +7,7 @@ import PorqueNos from "../interpolacao/home/porque-nos";
 import PlanosOpcao from "../interpolacao/planos/planos-opcao";
 import Separador from "../interpolacao/home/separador-propaganda";
 import Noticias from "../interpolacao/home/noticias";
+import Footer from "../interpolacao/global/footer";
 
 function Home(){
 
@@ -19,6 +20,7 @@ function Home(){
             <PlanosOpcao/>
             <Separador/>
             <Noticias/>
+            <Footer/>
         </div>
     )
 
